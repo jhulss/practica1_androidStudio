@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">APIGitHub</string>
+    <string name="title_activity_git_ui">GitUiActivity</string>
+    <string name="github_ui_button">Buscar</string>
+    <string name="github_ui_title">Ingrese el GitHub user</string>
+</resources>
